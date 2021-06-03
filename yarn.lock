@@ -813,6 +813,14 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
+"@budzswap-libs/budz-swap-core@https://github.com/budzswap/budz-swap-core.git":
+  version "0.1.0"
+  resolved "https://github.com/budzswap/budz-swap-core.git#c0edaa24cc6cdf1cdbc7706cbc3f80ccdc34a395"
+  dependencies:
+    truffle "^5.1.41"
+    truffle-flattener "^1.4.4"
+    truffle-hdwallet-provider "^1.0.17"
+
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@cnakazawa/watch/-/watch-1.0.4.tgz#f864ae85004d0fcab6f50be9141c4da368d1656a"
@@ -1203,15 +1211,6 @@
     "@types/istanbul-lib-coverage" "^2.0.0"
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
-
-"@budzswap-libs/budz-swap-core@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@budzswap-libs/budz-swap-core/-/budz-swap-core-0.1.0.tgz#f9d7025a9412452d0e14683147b8472156e6aa1f"
-  integrity sha512-55EzWpF2mCS9HEMzHsZ1QIxJ1ehshiF+SqB394Y8Nchbo+BFfPeZMka4ngYvb6uZIqwgPhEimH3XK4d+xkIruQ==
-  dependencies:
-    truffle "^5.1.41"
-    truffle-flattener "^1.4.4"
-    truffle-hdwallet-provider "^1.0.17"
 
 "@resolver-engine/core@^0.2.1":
   version "0.2.1"
