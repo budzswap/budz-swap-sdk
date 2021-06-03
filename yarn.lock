@@ -813,9 +813,9 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@budzswap-libs/budz-swap-core@https://github.com/budzswap/budz-swap-core.git":
+"@budzswap-libs/budz-swap-core@budzswap/budz-swap-core":
   version "0.1.0"
-  resolved "https://github.com/budzswap/budz-swap-core.git#c0edaa24cc6cdf1cdbc7706cbc3f80ccdc34a395"
+  resolved "https://codeload.github.com/budzswap/budz-swap-core/tar.gz/a470c7e7fc9378dd6029e4d8373a20f3fe4d5444"
   dependencies:
     truffle "^5.1.41"
     truffle-flattener "^1.4.4"

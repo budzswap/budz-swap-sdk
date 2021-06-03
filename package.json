@@ -23,7 +23,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@budzswap-libs/budz-swap-core": "https://github.com/budzswap/budz-swap-core.git",
+    "@budzswap-libs/budz-swap-core": "github:budzswap/budz-swap-core",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
